@@ -31,7 +31,7 @@ let package = Package(
         .executable(name: "loggingTracer", targets: ["LoggingTracer"]),
     ],
     dependencies: [
-        .package(name: "Opentracing", url: "https://github.com/undefinedlabs/opentracing-objc", from: "0.5.2"),
+        .package(name: "Opentracing", url: "https://github.com/cswelin/opentracing-objc", from: "0.5.2"),
         .package(name: "Thrift", url: "https://github.com/cswelin/Thrift-Swift", from: "1.1.1"),
         .package(name: "swift-nio", url: "https://github.com/apple/swift-nio.git", from: "2.0.0"),
         .package(name: "grpc-swift", url: "https://github.com/grpc/grpc-swift.git", from: "1.0.0"),
