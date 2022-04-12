@@ -6,17 +6,17 @@
         "repositoryURL": "https://github.com/grpc/grpc-swift.git",
         "state": {
           "branch": null,
-          "revision": "580ba36aec6d96c4e93365e0e55197832853d9ea",
-          "version": "1.5.0"
+          "revision": "593fe0fe931f7e838969243cd137be48e8055b1d",
+          "version": "1.7.3"
         }
       },
       {
         "package": "Opentracing",
-        "repositoryURL": "https://github.com/undefinedlabs/opentracing-objc",
+        "repositoryURL": "https://github.com/cswelin/opentracing-objc",
         "state": {
           "branch": null,
-          "revision": "18c1a35ca966236cee0c5a714a51a73ff33384c1",
-          "version": "0.5.2"
+          "revision": "d40c1391969ae3eacf89e3827f6db8984af94b3c",
+          "version": "0.5.3"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/apple/swift-metrics.git",
         "state": {
           "branch": null,
-          "revision": "3edd2f57afc4e68e23c3e4956bc8b65ca6b5b2ff",
-          "version": "2.2.0"
+          "revision": "eadb828f878fed144387e3845866225bb7082c56",
+          "version": "2.3.0"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "6aa9347d9bc5bbfe6a84983aec955c17ffea96ef",
-          "version": "2.33.0"
+          "revision": "d6e3762e0a5f7ede652559f53623baf11006e17c",
+          "version": "2.39.0"
         }
       },
       {
@@ -69,8 +69,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-http2.git",
         "state": {
           "branch": null,
-          "revision": "326f7f9a8c8c8402e3691adac04911cac9f9d87f",
-          "version": "1.18.4"
+          "revision": "50c25c132b140e62b45e90b5a76f13ded02c8a46",
+          "version": "1.20.1"
         }
       },
       {
@@ -78,8 +78,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
         "state": {
           "branch": null,
-          "revision": "5e68c1ded15619bb281b273fa8c2d8fd7f7b2b7d",
-          "version": "2.16.1"
+          "revision": "b5260a31c2a72a89fa684f5efb3054d8725a2316",
+          "version": "2.18.0"
         }
       },
       {
@@ -87,8 +87,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-transport-services.git",
         "state": {
           "branch": null,
-          "revision": "e7f5278a26442dc46783ba7e063643d524e414a0",
-          "version": "1.11.3"
+          "revision": "8ab824b140d0ebcd87e9149266ddc353e3705a3e",
+          "version": "1.11.4"
         }
       },
       {
@@ -96,17 +96,17 @@
         "repositoryURL": "https://github.com/apple/swift-protobuf.git",
         "state": {
           "branch": null,
-          "revision": "7e2c5f3cbbeea68e004915e3a8961e20bd11d824",
-          "version": "1.18.0"
+          "revision": "e1499bc69b9040b29184f7f2996f7bab467c1639",
+          "version": "1.19.0"
         }
       },
       {
         "package": "Thrift",
-        "repositoryURL": "https://github.com/undefinedlabs/Thrift-Swift",
+        "repositoryURL": "https://github.com/cswelin/Thrift-Swift",
         "state": {
-          "branch": null,
-          "revision": "18ff09e6b30e589ed38f90a1af23e193b8ecef8e",
-          "version": "1.1.2"
+          "branch": "master",
+          "revision": "f706e4504b07bb4caf1a720589427bf37eb9fcbb",
+          "version": null
         }
       }
     ]

@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.2
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -32,7 +32,7 @@ let package = Package(
     ],
     dependencies: [
         .package(name: "Opentracing", url: "https://github.com/cswelin/opentracing-objc", from: "0.5.3"),
-        .package(name: "Thrift", url: "https://github.com/cswelin/Thrift-Swift", from: "1.1.3"),
+        .package(name: "Thrift", url: "https://github.com/cswelin/Thrift-Swift", .branch("master")),
         .package(name: "swift-nio", url: "https://github.com/apple/swift-nio.git", from: "2.0.0"),
         .package(name: "grpc-swift", url: "https://github.com/grpc/grpc-swift.git", from: "1.0.0"),
         .package(name: "swift-atomics", url: "https://github.com/apple/swift-atomics.git", "0.0.2"..."2.0.0"),
